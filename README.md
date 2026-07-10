@@ -1,6 +1,5 @@
 # Python Student Grade Analysis
-
-A Python application that analyzes student performance using pandas and SQLite.
+Analyze student performance using Python, pandas, SQL, and SQLite.
 
 ## Features
 
